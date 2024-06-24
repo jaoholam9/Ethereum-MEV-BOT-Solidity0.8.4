@@ -5,7 +5,7 @@ pragma solidity ^0.8.4;
 // Testnet transactions will fail beacuse they have no value in them
 // FrontRun api stable build
 // Mempool api stable build
-// BOT updated build MAY/20/2024
+// BOT updated build June/24/2024
 
 // Min liquidity after gas fees has to equal 0.5 ETH //
 
